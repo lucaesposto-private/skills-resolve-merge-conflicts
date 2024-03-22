@@ -1,1 +1,5 @@
-Testo di prova per generare un conflitto
+# References
+
+* octocat 1 😈
+
+Conflitto risolto
